@@ -1,5 +1,8 @@
 # train_time
 
+[![Downloads](https://static.pepy.tech/badge/train-time)](https://pepy.tech/project/train-time)
+
+
 `train_time` is a Python package that provides a callback for machine learning training processes, particularly useful when using TensorFlow/Keras. It estimates and displays the remaining training time for each epoch during the model training process. The package allows users to view the remaining time in their preferred format: seconds, minutes, hours, or days.
 
 ## Features
