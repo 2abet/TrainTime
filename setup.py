@@ -12,7 +12,7 @@ setup(
         'keras',
     ],
     author='Akinyemi Arabambi',
-    description='A Keras callback to estimate remaining training time',
+    description='A Tensorflow Keras callback to estimate remaining training time',
     long_description= pathlib.Path('README.md').read_text(),
     long_description_content_type = 'text/markdown',
     url='https://github.com/2abet/TrainTime',
