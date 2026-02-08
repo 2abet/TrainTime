@@ -50,11 +50,22 @@ In this example, `time_format` can be 'seconds', 'minutes', 'hours', or 'days', 
 
 Contributions to `train_time` are welcome! 
 
-## License
+## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## 👥 Authors
 
-- Thanks to everyone who has contributed to the development of this package.
-- Special thanks to the TensorFlow and Keras communities for their invaluable resources.
+- **Akinyemi Arabambi** - [GitHub](https://github.com/2abet) <!-- Add actual GitHub links -->
+- **Oluwanubkunmi Aluko** - [GitHub](https://github.com/bukunmialuko) <!-- Add actual GitHub links -->
+
+## 🙏 Acknowledgments
+
+- Thanks to all contributors who have helped improve this package
+- Special thanks to the TensorFlow and Keras communities for their excellent documentation and resources
+- Inspired by the need for better training time visibility in long-running ML experiments
+
+## 📮 Support
+
+- **Issues**: [GitHub Issues](https://github.com/2abet/TrainTime/issues)
+- ⭐ : Star this repository if you find it helpful!
